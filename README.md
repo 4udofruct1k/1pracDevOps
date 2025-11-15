@@ -1,7 +1,7 @@
 
 # Redis Docker Container
 
-![Redis Logo]([https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg](https://grafana.com/oss/prometheus/exporters/redis-exporter/assets/redis-logo.png))
+![Redis Logo](https://grafana.com/oss/prometheus/exporters/redis-exporter/assets/redis-logo.png)
 
 
 ## Описание
