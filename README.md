@@ -1,7 +1,8 @@
 
 # Redis Docker Container
 
-![Redis Logo](https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg)
+![Redis Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg)
+
 
 ## Описание
 
